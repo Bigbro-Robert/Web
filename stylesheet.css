@@ -1,0 +1,48 @@
+body{
+	//margin:0px;
+	//padding:0px;
+}
+#audio_button{
+	width:25px;
+	height:25px;
+	//float:left;
+}
+h1{
+	font-family:"微软雅黑";
+	text-align:center;
+	width:200px;
+	height:42px;
+}
+#txtarea{
+	width:642px;
+	height:480px;
+	margin:0px;
+	padding:0px;
+	background-color:#FFFFCC;
+}
+#inp_txt{
+	width:592px;
+	height:23px;
+	border-width:2px 2px 2px 2px;
+	margin:0px;
+	padding:0px;
+}
+#inp_sub{
+	width:48px;
+	height:27px;
+	font-size:14px;
+	float:right;
+}
+#div_input{
+	width:644px;
+	height:27px;
+	padding:0px;
+	margin:0px;
+}
+#div_ui{
+	width:644px;
+	//border:1px solid;
+	padding:0px;
+	margin:0px;
+	//transform:rotate(7deg);
+}
